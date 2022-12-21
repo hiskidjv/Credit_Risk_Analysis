@@ -6,11 +6,16 @@
 1. Defining the features and the target
 2. Splitting the data into training and testing sets 
 3. Fitting the data into a prediction model 
+
     --typically by training a logicstic regression classifier
+
     --often resampling the data to adjust for drastic imbalance in the target
 4. Evaluating the classifier's prediction(s)
+
     --balanced accuracy score
+
     --confusion matrix
+
     --classification report
 
 ## Results: 
@@ -18,17 +23,17 @@
 > Below are the results of each of the 6 tests we ran:
 
 * RandomOverSampler-
-![image_name](path/to/image_name.png).
+![Evaluation](images/ROS.png).
 * SMOTE-
-![image_name](path/to/image_name.png).
+![Evaluation](images/SMOTE.png).
 * ClusterCentroids-
-![image_name](path/to/image_name.png).
+![Evaluation](images/CC.png).
 * SMOTEENN-
-![image_name](path/to/image_name.png).
+![Evaluation](images/SMOTEENN.png).
 * BalancedRandomForestClassifier
-![image_name](path/to/image_name.png).
+![Evaluation](images/BRFC.png).
 * EasyEnsembleClassifier
-![image_name](path/to/image_name.png).
+![Evaluation](images/EEC.png).
 
 ### Description of Stats:  
 
