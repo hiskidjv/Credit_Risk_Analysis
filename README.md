@@ -23,17 +23,17 @@
 > Below are the results of each of the 6 tests we ran:
 
 * RandomOverSampler-
-![Evaluation](images/ROS.png).
+![Evaluation](Images/ROS.png).
 * SMOTE-
-![Evaluation](images/SMOTE.png).
+![Evaluation](Images/SMOTE.png).
 * ClusterCentroids-
-![Evaluation](images/CC.png).
+![Evaluation](Images/CC.png).
 * SMOTEENN-
-![Evaluation](images/SMOTEENN.png).
+![Evaluation](Images/SMOTEENN.png).
 * BalancedRandomForestClassifier
-![Evaluation](images/BRFC.png).
+![Evaluation](Images/BRFC.png).
 * EasyEnsembleClassifier
-![Evaluation](images/EEC.png).
+![Evaluation](Images/EEC.png).
 
 ### Description of Stats:  
 
